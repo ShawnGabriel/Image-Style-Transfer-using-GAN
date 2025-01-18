@@ -1,6 +1,7 @@
 # ArtGAN: Artistic Style Transfer
 
 ArtGAN is a neural style transfer application that transforms content images by applying the style of a different image. The application is implemented using PyTorch and Streamlit for an easy-to-use web interface.
+<br/><img src='/sample/Streamlit.png'>
 
 ## Features
 - Upload content and style images to create art using neural style transfer
