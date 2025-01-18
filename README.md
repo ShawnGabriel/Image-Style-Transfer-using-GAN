@@ -13,11 +13,6 @@ ArtGAN is a neural style transfer application that transforms content images by 
     git clone https://github.com/yourusername/ArtGAN-Style-Transfer.git
     cd ArtGAN-Style-Transfer
     ```
-2. Install dependencies:
-    ```bash
-    pip install -r src/requirements.txt
-    ```
-
 ## Usage
 Run the Streamlit application with:
 ```bash
